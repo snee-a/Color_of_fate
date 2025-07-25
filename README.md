@@ -11,7 +11,7 @@ Color of Fate is a fun and interactive React web app that gives you a lucky numb
 ✨ Smooth animations and elegant UI
 🚀 Live Demo
 
-👉 Click to Try It Livehttps://color-of-fate.vercel.app/
+👉 Click to Try It Live https://color-of-fate.vercel.app/
 
 📸 Preview
 
